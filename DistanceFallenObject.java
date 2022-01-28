@@ -1,3 +1,5 @@
+/*Compute how far an object has fallen in a given amount of time*/
+
 import java.util.Scanner;
 
 public class DistanceFallenObject {
