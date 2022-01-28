@@ -1,10 +1,5 @@
 import java.util.Scanner;
 
-/**
- * Neville Castillo
- * 300321642
- * COSC 111 Lab 1
- */
 public class DistanceFallenObject {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
