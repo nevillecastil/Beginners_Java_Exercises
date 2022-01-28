@@ -14,6 +14,7 @@ public class TimeBreakdown {
         System.out.println("Hours: " + hours);
         System.out.println("Minutes: " + minutes);
         System.out.println("Seconds: " + seconds);
+        input.close();
 
     }
 }
