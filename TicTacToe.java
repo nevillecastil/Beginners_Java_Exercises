@@ -1,4 +1,4 @@
-/*Code provide by Ken Chidlow*/
+/*Code provided by Ken Chidlow*/
 public class TicTacToe {
     public static void main(String[] args) {
         char[][] tictactoe = new char[3][3];
